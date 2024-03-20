@@ -186,8 +186,18 @@ plot_decision_regions(x_test, y_test)'''
 ```
 
 # OUTPUT:
+Data Set:
+![image](https://github.com/HamsiniKannan/Ex-2--NN/assets/119393929/6ba9ba81-d721-4b16-b4cf-2db6c23c68ac)
 
-    ''' Show your result '''
+Iris Data Set:
+![image](https://github.com/HamsiniKannan/Ex-2--NN/assets/119393929/969aa88f-a078-4f88-bef4-9abf56495dd9)
+
+Scatterplot:
+![image](https://github.com/HamsiniKannan/Ex-2--NN/assets/119393929/2833c657-1043-4337-a4e1-7130712189e1)
+
+Errorplot and Accuracy:
+![image](https://github.com/HamsiniKannan/Ex-2--NN/assets/119393929/cac136d1-6d21-4773-a332-7a72506ab7bd)
+
 
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
