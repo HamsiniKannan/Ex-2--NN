@@ -50,8 +50,8 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
   ```
-import numpy as np                                                      Developed By: KEERTHANA S
-import pandas as pd                                                     Register No: 212222230066
+import numpy as np                                                      Developed By: HAMSINI K
+import pandas as pd                                                     Register No: 212222040049
 import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 from sklearn.model_selection import train_test_split
